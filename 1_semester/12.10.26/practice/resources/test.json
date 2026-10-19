@@ -1,0 +1,19 @@
+{
+  "store": "CyberStore Central",
+  "products": [
+    {
+      "id": 1,
+      "name": "Mechanical Keyboard RGB",
+      "price": 129.99,
+      "inStocle": true,
+      "tags": ["peripherals", "gaming", "keyboards"]
+    },
+    {
+      "id": 2,
+      "name": "Wireless Ergonomic Mouse",
+      "price": 59.50,
+      "inStocle": false,
+      "tags": ["peripherals", "wireless", "office"]
+    }
+  ]
+}
